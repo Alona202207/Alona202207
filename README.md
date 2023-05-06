@@ -1,10 +1,11 @@
 <h1 align="center"> I'm Alona</h1>
-<h3 align="center">A frontend developer</h3>
-
-
+<h3 align="center">A trainee python developer</h3>
+<h2 align="center">My description</h2>
+<p align="left">I started learning Python. So I plan to make several projects in this programming language. I also want to make an interesting project on Data Visualization
+</p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> Email: piven6160@gmail.com
+<p align="left"> Email: pivenalona2022@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
